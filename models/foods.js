@@ -35,3 +35,6 @@ const foods = [
       image: 'https://i.imgur.com/QZW3gJg.jpg',
     },
   ]
+
+    //at the bottom of /models/fruits.js
+module.exports = foods;
